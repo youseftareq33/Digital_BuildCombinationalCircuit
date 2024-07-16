@@ -10,3 +10,5 @@ Using Verilog HDL on Quartus application i implement:
 
 4. 4-bit AND Array
 
+![](CombinationalCircuit_photo.jpg)
+
